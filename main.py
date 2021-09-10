@@ -1,5 +1,6 @@
 import pygame
 
+
 TURQUESA = (72, 209, 204)
 
 pygame.init()
